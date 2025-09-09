@@ -12,6 +12,22 @@
 ## optional features
 ### tont-assistant 
 - [ ] add history for tont assistant 
+the object instructions 
+```
+{
+  { name: "wwi chat",
+     { user: "gebznzksma.d",
+       respond: "i have no idea what will be the answer"},
+     { user: "messgw 2",
+       respond: "i have no idea what will be the answer"}
+  },
+  { name: "YACTHC chat",
+     { user: "gebznzJXJSNZMksma.d",
+       respond: "i haveXNNZMZNZ no idea what will be the answer"},
+     { user: "MESSAGE 2",
+       respond: "i have no idea what will be the answer"}
+}
+```
 - [ ] add custom instructions feature
 - [ ] add ready to use custom instructions for specific subject like اعراب في العربي
 - [ ] add copy message in tont assistant 
