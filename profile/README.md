@@ -34,11 +34,11 @@
   - Display streaks and progress tracking.
 
 - **Leaderboard**
-  - Rank students at the class/school level.
+  - ~Rank students at the class/school level.~ rashed
   - Encourage healthy competition and motivation.
 
 - **Chat-Tont**
-  - Smart study assistant for explaining difficult points, organizing review sessions, and preparing for exams.
+  - ~Smart study assistant for explaining difficult points, organizing review sessions, and preparing for exams.~ saleh
 
 - **Pathfinder / Career Guidance**
   - Questionnaire to help students choose the right specialization or university path.
@@ -99,7 +99,7 @@
   - Calculate student rankings periodically.
 
 - **Chat-Tont / AI API**
-  - Answer student questions and help with study planning.
+  - ~Answer student questions and help with study planning.~ saleh
 
 - **Pathfinder API**
   - Analyze student responses and suggest optimal study/career paths.
