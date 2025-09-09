@@ -1,5 +1,8 @@
 # Tont Project – TODO List (Frontend / Backend)
 
+## **fixing**
+- use div instead of pre for Ai generated message in chat-tont
+
 ## **Frontend Tasks**
 ### User & Authentication
 - [ ] Home Page
