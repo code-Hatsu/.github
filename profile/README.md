@@ -5,6 +5,7 @@
 - add more padding-right in phone view in tont assistant in the user input
 - make the padding in right/left of the promot in pc view more smaller
 - set up dark mode
+- delete padding in tont assistant input field and set it to auto instead of the right and left one
 
 ## **Frontend Tasks**
 ### User & Authentication
