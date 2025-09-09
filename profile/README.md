@@ -3,6 +3,8 @@
 ## **fixing**
 - ~use div instead of pre for Ai generated message in chat-tont~
 - add more padding-right in phone view in tont assistant in the user input
+- make the padding in right/left of the promot in pc view more smaller
+- set up dark mode
 
 ## **Frontend Tasks**
 ### User & Authentication
