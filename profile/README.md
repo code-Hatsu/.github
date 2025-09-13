@@ -11,6 +11,8 @@
 # **Frontend Tasks**
 ## optional features
 ### tont-assistant 
+- [x] send message with Return.
+- [ ] outside API
 - [ ] add history for tont assistant 
 the object instructions 
 ```
@@ -50,7 +52,7 @@ the object instructions
 - [ ] Ministry Assignments (UI)
 - [ ] Track Marks & Assignments Logger (UI)
 - [x] Mistakes Notebook (UI)
-- [ ] Notes (UI)
+- [~] Notes (UI)
 
 ### Community & Communication
 - [ ] School Community & Announcements (UI)
