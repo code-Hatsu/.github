@@ -35,7 +35,7 @@ the object instructions
 - [ ] add copy message in tont assistant 
 ## User & Authentication
 - [~] Home Page
-- [~] Log In
+- [x] Log In
 - [x] Log Out
 - [~] Sign Up
 - [ ] Edit Profile
@@ -52,7 +52,7 @@ the object instructions
 - [ ] Ministry Assignments (UI)
 - [ ] Track Marks & Assignments Logger (UI)
 - [x] Mistakes Notebook (UI)
-- [~] Notes (UI)
+- [x] Notes (UI)
 
 ### Community & Communication
 - [ ] School Community & Announcements (UI)
@@ -81,8 +81,8 @@ the object instructions
 - [ ] Stream Platform & Lesson Videos (Backend Demo Setup)
 - [ ] Ministry Assignments (API)
 - [ ] Track Marks & Assignments Logger (Analytics / Progress Reports API)
-- [~] Mistakes Notebook (API)
-- [ ] Notes (API)
+- [x] Mistakes Notebook (API)
+- [x] Notes (API)
 
 ### Community & Communication
 - [ ] School Community & Announcements (API)
@@ -92,4 +92,4 @@ the object instructions
 ### Advanced / Optional Features
 - [~] Leaderboard (Backend logic)
 - [x] Chat-Tont (AI integration API)
-- [~] VARK Test (Logic & API)
+- [x] VARK Test (Logic & API)
