@@ -34,7 +34,8 @@ the object instructions
 - [ ] add ready to use custom instructions for specific subject like اعراب في العربي
 - [ ] add copy message in tont assistant 
 ## User & Authentication
-- [~] Home Page
+- [x] Home Page
+- [x] dashboard
 - [x] Log In
 - [x] Log Out
 - [~] Sign Up
@@ -48,7 +49,7 @@ the object instructions
 - [~] Streak Logger (UI)
 - [ ] Motivation Messages (UI)
 - [ ] All-in-One Content Aggregation (UI)
-- [ ] Stream Platform & Lesson Videos (Demo UI)
+- [x] Stream Platform & Lesson Videos (Demo UI)
 - [ ] Ministry Assignments (UI)
 - [ ] Track Marks & Assignments Logger (UI)
 - [x] Mistakes Notebook (UI)
