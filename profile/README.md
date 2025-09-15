@@ -43,7 +43,7 @@ the object instructions
 - [ ] Settings / Preferences `I think it would be useless for a demo`
 
 ### Learning & Tasks
-- [ ] Pathfinder / Career Guidance (UI)
+- [x] Pathfinder / Career Guidance (UI)
 - [ ] Tasks Manager (Study Tasks & Homework Manager UI)
 - [~] Habit Tracker (UI) `in progress`
 - [~] Streak Logger (UI)
@@ -73,7 +73,7 @@ the object instructions
 - [ ] Notifications / Alerts
 
 ### Learning & Tasks
-- [ ] Pathfinder / Career Guidance (Logic & API)
+- [x] Pathfinder / Career Guidance (Logic & API)
 - [ ] Tasks Manager (Study Tasks & Homework Manager API)
 - [~] Habit Tracker (API)
 - [ ] Streak Logger (API)
