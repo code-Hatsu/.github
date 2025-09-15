@@ -39,8 +39,8 @@ the object instructions
 - [x] Log In
 - [x] Log Out
 - [x] Sign Up
-- [ ] Edit Profile
-- [ ] Settings / Preferences
+- [x] Edit Profile
+- [ ] Settings / Preferences `I think it would be useless for a demo`
 
 ### Learning & Tasks
 - [ ] Pathfinder / Career Guidance (UI)
