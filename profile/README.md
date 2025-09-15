@@ -57,7 +57,7 @@ the object instructions
 
 ### Community & Communication
 - [ ] School Community & Announcements (UI)
-- [ ] Search (Teacher / School Announcement UI)
+- [x] community
 - [ ] Feedback / Help (UI)
 
 ### Advanced / Optional Features
