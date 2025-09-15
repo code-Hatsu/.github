@@ -38,7 +38,7 @@ the object instructions
 - [x] dashboard
 - [x] Log In
 - [x] Log Out
-- [~] Sign Up
+- [x] Sign Up
 - [ ] Edit Profile
 - [ ] Settings / Preferences
 
