@@ -12,7 +12,7 @@
 ## optional features
 ### tont-assistant 
 - [x] send message with Return.
-- [ ] outside API
+- [x] outside API
 - [ ] add history for tont assistant 
 the object instructions 
 ```
@@ -40,25 +40,25 @@ the object instructions
 - [x] Log Out
 - [x] Sign Up
 - [x] Edit Profile
-- [ ] Settings / Preferences `I think it would be useless for a demo`
+- [x] Settings / Preferences `I think it would be useless for a demo`
 
 ### Learning & Tasks
 - [x] Pathfinder / Career Guidance (UI)
-- [ ] Tasks Manager (Study Tasks & Homework Manager UI)
-- [~] Habit Tracker (UI) `in progress`
-- [~] Streak Logger (UI)
-- [ ] Motivation Messages (UI)
-- [ ] All-in-One Content Aggregation (UI)
+- [x] Tasks Manager (Study Tasks & Homework Manager UI)
+- [x] Habit Tracker (UI) `in progress`
+- [x] Streak Logger (UI)
+- [x] Motivation Messages (UI)
+- [x] All-in-One Content Aggregation (UI)
 - [x] Stream Platform & Lesson Videos (Demo UI)
-- [ ] Ministry Assignments (UI)
-- [ ] Track Marks & Assignments Logger (UI)
+- [x] Ministry Assignments (UI)
+- [x] Track Marks & Assignments Logger (UI)
 - [x] Mistakes Notebook (UI)
 - [x] Notes (UI)
 
 ### Community & Communication
-- [ ] School Community & Announcements (UI)
+- [x] School Community & Announcements (UI)
 - [x] community
-- [ ] Feedback / Help (UI)
+- [x] Feedback / Help (UI)
 
 ### Advanced / Optional Features
 - [x] Leaderboard (UI)
