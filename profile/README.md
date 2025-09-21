@@ -1,38 +1,17 @@
 # Tont Project – TODO List (Frontend / Backend)
 
 ## **fixing**
-- overflow in messages in tont assistant
-- ~use div instead of pre for Ai generated message in chat-tont~
-- ~add more padding-right in phone view in tont assistant in the user input~
-- ~make the padding in right/left of the promot in pc view more smaller~
-- ~set up dark mode~
-- ~delete padding in tont assistant input field and set it to auto instead of the right and left one~
 
 # **Frontend Tasks**
 ## optional features
 ### tont-assistant 
 - [x] send message with Return.
 - [x] outside API
-- [ ] add history for tont assistant 
+- [x] add history for tont assistant 
 the object instructions 
-```
-{
-  { name: "wwi chat",
-     { user: "gebznzksma.d",
-       respond: "i have no idea what will be the answer"},
-     { user: "messgw 2",
-       respond: "i have no idea what will be the answer"}
-  },
-  { name: "YACTHC chat",
-     { user: "gebznzJXJSNZMksma.d",
-       respond: "i haveXNNZMZNZ no idea what will be the answer"},
-     { user: "MESSAGE 2",
-       respond: "i have no idea what will be the answer"}
-}
-```
-- [ ] add custom instructions feature
-- [ ] add ready to use custom instructions for specific subject like اعراب في العربي
-- [ ] add copy message in tont assistant 
+- ~[ ] add custom instructions feature~
+- [x] add ready to use custom instructions for specific subject like اعراب في العربي
+- [x] add copy message in tont assistant 
 ## User & Authentication
 - [x] Home Page
 - [x] dashboard
