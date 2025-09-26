@@ -50,20 +50,12 @@ the object instructions
 ### User & Authentication
 - [ ] User Roles & Permissions
 - [ ] Notifications / Alerts
-
-### Learning & Tasks
-- [x] Pathfinder / Career Guidance (Logic & API)
-- [ ] Tasks Manager (Study Tasks & Homework Manager API)
-- [~] Habit Tracker (API)
-- [ ] Streak Logger (API)
-- [ ] Motivation Messages (API)
-- [ ] All-in-One Content Aggregation (API)
-- [ ] Stream Platform & Lesson Videos (Backend Demo Setup)
-- [ ] Ministry Assignments (API)
-- [ ] Track Marks & Assignments Logger (Analytics / Progress Reports API)
-- [x] Mistakes Notebook (API)
-- [x] Notes (API)
-
+- [ ] mentions
+- [ ] student attitude 
+- [ ] absolute 
+- [ ] marks ( full / his)
+- [ ] push pull leg
+- [ ] reactions
 ### Community & Communication
 - [ ] School Community & Announcements (API)
 - [ ] Search (Teacher / School Announcement API)
